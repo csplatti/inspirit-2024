@@ -25,7 +25,7 @@ git clone https://github.com/{your-gh-username}}/inspirit-2024.git
 2. Create a python virtual environment via ```python3 -m venv {your_env_name}```
 3. Activate the environment via ```source ./{your_env_name}/bin/activate```
 4. Install the required dependencies via ```pip install -r requirements.txt```
-5. Open the ```./.env copy``` file and replace ```{your_openai_api_key_here}``` with an openai api key of your own
+5. Open ```./.env copy``` and replace ```{your_openai_api_key_here}``` with an openai api key of your own
 6. Rename ```./.env copy``` to ```./.env``` (i.e. run ```mv ".env copy" ".env"```)
 5. Use and the notebook as you wish
 6. When you are finished, deactivate the environment via the ```deactivate``` command
