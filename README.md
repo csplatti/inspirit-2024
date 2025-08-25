@@ -20,12 +20,14 @@ git clone https://github.com/{your-gh-username}}/inspirit-2024.git
     cd ./inspirit-2024
 ```
 
-## Notebook Usage
+## Notebook Usage (VSCode)
 1. Navigate to the repository on your local machine
 2. Create a python virtual environment via ```python3 -m venv {your_env_name}```
 3. Activate the environment via ```source ./{your_env_name}/bin/activate```
 4. Install the required dependencies via ```pip install -r requirements.txt```
 5. Open ```./.env copy``` and replace ```{your_openai_api_key_here}``` with an openai api key of your own
 6. Rename ```./.env copy``` to ```./.env``` (i.e. run ```mv ".env copy" ".env"```)
-5. Use and the notebook as you wish
+7. Open ```./project_notebook.ipynb```
+8. Click "Select Kernel" in the top right corner and select ```Python Environments -> env (Python 3.11.0)```
+5. Run and use the cells in the notebook as you wish
 6. When you are finished, deactivate the environment via the ```deactivate``` command
