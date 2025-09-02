@@ -1,6 +1,8 @@
 # Evaluating GPT-3.5-Turbo’s Accuracy in Summarizing News Articles
 ## Overview
-This repository contains the code from my project within the [Inspirit 1:1 AI Research Program](https://www.inspiritai.com/ai-research-program). I sincerely thank my mentors, the administrative team behind the program, and my parents for providing me with the resources to complete this project.
+This repository contains the code from my research project within the [Inspirit 1:1 AI Research Program](https://www.inspiritai.com/ai-research-program). The paper is publically available on google drive at [this link](https://drive.google.com/file/d/1g5ychChpxJWunNnEtU-h19GULagP3vzj/view?usp=sharing). 
+
+I sincerely thank my mentors, the administrative team behind the program, and my parents for providing me with the resources to complete this project.
 
 ## Abstract 
 Thousands of news articles are published every day, yet many people are still unable to stay up to date with world events due to a lack of time. An accurate and precise method of summarization would help condense the vast amount of information into more bite-sized chunks, lowering barriers between individuals and a knowledge of current events.
